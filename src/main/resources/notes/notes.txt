@@ -1,0 +1,18 @@
+API Requests:
+
+1. HTTP Method - GET/POST/DELETE/PUT
+2. URI - Base URL / Base Path
+3. Payload - depends on what type http call
+should be in JSON format starting and ending with { }
+the payload format or schema provided by developers through API documentation (swagger)
+4. Headers - we need to pass that info also while sending request
+content-type = application/json -> That means in which format you are sending the payload
+that metadata also goes to the rest server
+
+
+In payload when we see objects - those key value pairs are related
+and that's why they are grouped together inside an object
+
+** In Maven dependency if scope is limited to test , that means you can use that
+dependency under src/test, can't use in src/main. If Scope is not mentioned then
+scope is global and dependency can be used anywhere globally.
