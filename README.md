@@ -5,4 +5,4 @@ Will demonstrate all HTTP/HTTPS calls
 
 Dependency used\
 1.rest-assured -> 4.3.1\
-2.testng -> 7.1.0\
+2.testng -> 7.1.0
